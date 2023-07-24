@@ -9,7 +9,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/razadeshpande/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/razadeshpande/" height="30" width="40" /></a>
 </p>
-👨‍💻Portfolio Link https://mohdraza-firoj-deshpande.github.io/--/index.html
 
 <p align="left">
 </p>
