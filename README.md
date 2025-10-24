@@ -26,7 +26,7 @@
 
 ## 🧠 About Me
 
-- 💼 **Data Analyst @ Manjushree Technopack Ltd**
+- 💼 **Engineer - Data Analytics @ Manjushree Technopack Ltd**
 - 📊 Skilled in **Power BI**, **SQL**, **Python (Pandas, NumPy)**, and **Advanced Excel**
 - ⚙️ Built automation tools improving data speeds by **68%** and reducing downtime by **4,320 mins/month**
 - 🔍 Passionate about **data-driven problem solving** and **predictive analytics**
