@@ -30,7 +30,7 @@
 - 📊 Skilled in **Power BI**, **SQL**, **Python (Pandas, NumPy)**, **Machine Learning** and **Advanced Excel**
 - ⚙️ Built automation tools improving data speeds by **68%** and reducing downtime by **4,320 mins/month**
 - 🔍 Passionate about **data-driven problem solving** and **predictive analytics**
-- 🚀 Currently exploring **Machine Learning**, **Generative AI**, and **Cloud Data Engineering**
+- 🚀 Currently exploring **Generative AI**, and **Cloud Data Engineering**
 - 💬 Ask me about **Data Visualization**, **ETL Pipelines**, or **Predictive Modeling**
 
 ---
