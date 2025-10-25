@@ -28,7 +28,7 @@
 
 - 💼 **Engineer - Data Analytics @ Manjushree Technopack Ltd**
 - 📊 Skilled in **Power BI**, **SQL**, **Python (Pandas, NumPy)**, **Machine Learning** and **Advanced Excel**
-- ⚙️ Built Dashboards,Reports and automation tools improving sales by **53 %** and reducing Manufacturing downtime by **4,320 mins/month**
+- ⚙️ Built Dashboards, Reports and automation tools improving sales by **53%** and reducing Manufacturing downtime by **4,320 mins/month**
 - 🔍 Passionate about **data-driven problem solving** and **predictive analytics**
 - 🚀 Currently exploring **Generative AI**, and **Cloud Data Engineering**
 - 💬 Ask me about **Data Visualization**, **ETL Pipelines**, or **Predictive Modeling**
