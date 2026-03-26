@@ -1,5 +1,5 @@
 <!-- Header Section -->
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Mohd+Raza!;Data+Analyst+|+Power+BI+|+Python+|+SQL|+ML;Turning+Data+Into+Actionable+Insights!)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Mohd+Raza!;Data+Analitics+|+Power+BI+|+Python+|+SQL|+ML;Turning+Data+Into+Actionable+Insights!)
 
 
 
