@@ -26,7 +26,7 @@
 
 ## 🧠 About Me
 
-- 💼 **Engineer - Data Analytics @ Manjushree Technopack Ltd**
+- 💼 **Engineer - Data Analytics @ Alternicq Formerly Manjushree Technopack Ltd**
 - 📊 Skilled in **Power BI**, **SQL**, **Python (Pandas, NumPy)**, **Machine Learning** and **Advanced Excel**
 - ⚙️ Built Dashboards, Reports and automation tools improving sales by **53%** and reducing Manufacturing downtime by **4,320 mins/month**
 - 🔍 Passionate about **data-driven problem solving** and **predictive analytics**
